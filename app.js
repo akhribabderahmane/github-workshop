@@ -1,1 +1,2 @@
-console.log("starting the app ...")
+const message="welcome to our repo"
+console.log(message)
